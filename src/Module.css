@@ -1,0 +1,14 @@
+h2{
+    color:darkred;
+    font-size: larger;
+    font-weight: 800;
+}
+
+.module .titleCustom{
+    text-align: center;
+}
+
+a{
+    text-align: center;
+    color: whitesmoke!important;
+}

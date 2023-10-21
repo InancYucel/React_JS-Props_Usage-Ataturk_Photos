@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+#root
+{
+    margin: 1rem 10rem 10rem 10rem;
+}
+
+h1{
+    color: whitesmoke;
+}
+
+.titleCustom{
+    margin-top: 2rem;
+}
